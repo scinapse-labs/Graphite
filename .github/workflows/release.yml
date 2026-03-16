@@ -1,4 +1,4 @@
-name: "Editor: Production (Latest Stable)"
+name: "Release"
 
 on:
   push:
